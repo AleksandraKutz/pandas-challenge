@@ -24,7 +24,7 @@ Moreover, the sheer scale of larger schools poses logistical challenges in organ
 
 The five schools with the best pass rates had an average budget of $ 598.8 per student per school, while the five schools with the lowest pass rates had an average budget of $ 646.6 per student per school. 
 
- 
+ ![](image2.png)
 
 	This allows me to conclude that if the average budget per student varies between schools by up to USD 50, it does not appear to have a significant impact on the improvement of the pass rate of a given school.
 
